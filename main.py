@@ -81,7 +81,7 @@ def plot(df, xlabel, ylabel, title):
 
 if __name__ == '__main__':
     
-    use_downloaded_csv = True
+    use_downloaded_csv = False
     
     if use_downloaded_csv:
         use_csv()
